@@ -7,7 +7,7 @@ from socket import *
 
 #Giriş
 print "    | Port Scanner V1"
-print "Cyber Warrior | MuRe Proje Ekibi | Kara Ayaz"
+print "DarkDevilz | MuRe Proje Ekibi | Kara Ayaz"
 print "Operasyon Başlangıç Saati:"+" "+time.strftime("%H:%M:%S")
 print "/"*60
 
@@ -32,4 +32,4 @@ for port in range(20, 1025):
     giris.close()
 
 print "Operasyon Tamamlanmıştır"
-print "Cyber-Warrior | Kara Ayaz"
+print "Cyber-Warrior & DarkDevilz | Kara Ayaz"
